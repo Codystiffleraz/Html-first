@@ -1,0 +1,37 @@
+
+body {
+
+}
+header{
+    background-color: darkcyan;
+    height: 10vh;
+    margin: 0%;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    margin: 0;
+}
+p {
+    font-size: 32pt;
+    color:lavenderblush;
+}
+
+div {
+    height: fit-content;
+    margin: 10px 30px;
+}
+
+button {
+    border-radius: 5px;
+}
+
+div > p {
+    font-size: 24pt;
+}
+
+img{
+    height: 275px;
+    border: 6px solid black;
+}
